@@ -1,0 +1,7 @@
+﻿  Main Game.cpp
+c:\users\drickert\desktop\group project\depths of grindia 2\project1\sheild.h(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\drickert\desktop\group project\depths of grindia 2\project1\main game.cpp(353): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\drickert\desktop\group project\depths of grindia 2\project1\main game.cpp(370): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\drickert\desktop\group project\depths of grindia 2\project1\main game.cpp(380): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\drickert\desktop\group project\depths of grindia 2\project1\main game.cpp(483): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> C:\Users\drickert\Desktop\Group Project\Depths of Grindia 2\Debug\Depths of Grindia 2.exe
