@@ -1,0 +1,1 @@
+This game was created in April of 2018 for a C++ class. The work was divided between Duc Nguyen, Glenville Pecor and Daylen Rickert. For more info, visit our original presentation at https://drive.google.com/file/d/1Ip-ZPyDJYgELErBLhUDr7Bc0LwKii9tX/view?usp=sharing
